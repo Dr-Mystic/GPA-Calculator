@@ -65,3 +65,6 @@ streamlit run app.py
 3. Add more criteria until the total weight reaches 100%.
 4. Switch to "Calculate GPA" and input obtained and total marks for each criterion.
 5. Click "Calculate GPA" to see your GPA and grade.
+
+## License
+This project is licensed under the MIT License.
